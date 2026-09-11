@@ -1,4 +1,4 @@
-# Alejandro Henrique | Portfólio
+# Alejandro Henrique | Portfólio 
 
 Portfólio pessoal criado para apresentar meus projetos, conhecimentos e evolução na área de tecnologia e desenvolvimento de software.
 
