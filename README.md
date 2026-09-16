@@ -14,12 +14,9 @@ Criar um espaço profissional para centralizar minha presença na área de tecno
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- Git
-- GitHub
-- Vercel
 
 ## ✨ Funcionalidades
 

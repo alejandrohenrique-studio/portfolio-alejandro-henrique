@@ -332,6 +332,58 @@ body {
 }
 
 /* ================================
+   LINKS DOS PROJETOS
+================================ */
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 12px;
+
+  margin-top: 24px;
+}
+
+.project-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 10px 16px;
+
+  color: #f8fafc;
+  background-color: #1677ff;
+
+  border: 1px solid #1677ff;
+  border-radius: 8px;
+
+  font-size: 0.9rem;
+  font-weight: 600;
+
+  text-decoration: none;
+
+  transition: 0.3s ease;
+}
+
+.project-links a:hover {
+  background-color: #60a5fa;
+  border-color: #60a5fa;
+
+  transform: translateY(-2px);
+}
+
+.project-links a:last-child {
+  color: #60a5fa;
+  background-color: transparent;
+}
+
+.project-links a:last-child:hover {
+  color: #f8fafc;
+  background-color: #1677ff;
+  border-color: #1677ff;
+}
+
+/* ================================
    TECNOLOGIAS
 ================================ */
 
