@@ -1,24 +1,50 @@
-# Alejandro Henrique | Portfólio 
+# Alejandro Henrique | Portfólio
 
-Portfólio pessoal criado para apresentar meus projetos, conhecimentos e evolução na área de tecnologia e desenvolvimento de software.
+Portfólio pessoal desenvolvido para apresentar minha trajetória profissional, conhecimentos, tecnologias e projetos na área de desenvolvimento de software.
 
 ## 🚀 Sobre o projeto
 
-Este portfólio será desenvolvido como parte da minha evolução prática em desenvolvimento de software, reunindo projetos, experiências e tecnologias utilizadas ao longo da minha jornada.
+Este projeto foi desenvolvido como parte da minha evolução prática em desenvolvimento web, reunindo informações sobre minha trajetória, formação, experiência profissional, tecnologias e projetos.
+
+O portfólio possui layout responsivo para desktop, tablet e dispositivos móveis, além de animações e interações desenvolvidas com JavaScript.
 
 ## 🎯 Objetivo
 
-Criar um espaço profissional para centralizar meus projetos e minha presença na área de tecnologia.
+Criar um espaço profissional para centralizar minha presença na área de tecnologia, apresentar meus projetos e acompanhar minha evolução como desenvolvedor.
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias utilizadas
 
-As tecnologias utilizadas serão adicionadas conforme o desenvolvimento do projeto.
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Vercel
+
+## ✨ Funcionalidades
+
+- Layout responsivo
+- Navegação entre seções
+- Animações durante o carregamento e rolagem da página
+- Seção de projetos
+- Tecnologias
+- Linha do tempo profissional
+- Formação acadêmica
+- Área de contato
+- Links para GitHub, LinkedIn e e-mail
 
 ## 📌 Status
 
-🚧 Projeto em planejamento e desenvolvimento inicial.
+✅ Primeira versão publicada.
+
+O projeto continuará recebendo melhorias e novas funcionalidades conforme minha evolução e o desenvolvimento de novos projetos.
+
+## 🌐 Projeto online
+
+https://alejandrohenrique.vercel.app/
 
 ## 🔗 Links
 
 - GitHub: https://github.com/alejandrohenrique-studio
-- LinkedIn: será adicionado
+- LinkedIn: https://www.linkedin.com/in/alejandro-henrique-2a9a89435/
+- E-mail: alejandrohenrique.studio@gmail.com
